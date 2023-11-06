@@ -241,7 +241,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## Circuit board :
  
- 
+ ![image](https://github.com/Jayabharathi3/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/120367796/591da10d-224b-42d7-9e0e-c7c173bc4dc1)
+
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
